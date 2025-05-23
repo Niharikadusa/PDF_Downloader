@@ -40,17 +40,20 @@ eg: c:/Niharika/PDF_downloader_automatic/main.py
 
 
 **cmd prompt :**
-1.  > >cd  your folder where the files are saved.(cd Niharika)
->  >
->  >
-2. >  >pip install -r requirements.txt
-   >  >
-   >  >
-3.  >  >python main.py
->  >
->  >
-4. >  > next step you need to enter your csv file name (eg GRI_2017_2020.csv)
->  
->  
+1. cd  your folder where the files are saved.(cd Niharika)
+
+2. pip install -r requirements.txt
+   
+   <img width="650" alt="image" src="https://github.com/user-attachments/assets/358e2955-1e19-48b6-9a8b-3761083cbba3" />
+
+3. python main.py
+
+<img width="434" alt="image" src="https://github.com/user-attachments/assets/0dc8870e-82e7-40cb-a2fa-a8a7114d314d" />
+
+4. next step you need to enter your csv file name (eg GRI_2017_2020.csv)
+
+<img width="539" alt="image" src="https://github.com/user-attachments/assets/f846b73b-36fb-49d6-8312-366a10c886e0" />
+
+
 If the csv is in correct format you will have and excel file with status and filepaths and folder containing pdfs.
 
