@@ -13,11 +13,30 @@ Requirements for the tool to run.
 1. Install python from https://www.python.org/downloads/
 2. Install VScode(optional). https://code.visualstudio.com/download
 3. Download the files from github.
-4. The CSV file should be in the same folder as the programming files.
-5. The csv file should have 3 columns (id,URl1, URl2)
+5. The CSV file should be in the same folder as the programming files.
+6. The csv file should have 3 columns (id,URl1, URl2)
 
-For the tool to run the user must run a main.py file either in VS code file or cmd prompt Like below
-eg: c:/Niharika/PDF_downloader_automatic/main.py in Vs
+First you need to run requirements.txt file as given below in vscode and cmd prompt.
+--- pip install -r requirements.txt
+
+<img width="423" alt="Screenshot 2025-05-23 140943" src="https://github.com/user-attachments/assets/c15c7970-ae73-4ea5-91f6-b66527bc91c9" />
+
+
+After all the requirements are installed you need to run main file for tool to work
+1. The user must run a main.py file either in VS code file or cmd prompt Like below
+eg: c:/Niharika/PDF_downloader_automatic/main.py 
+
+<img width="767" alt="image" src="https://github.com/user-attachments/assets/1fec449e-8528-4e8a-9cb2-9642ee208899" />
+
+2. Now user needs to enter the csv file name
+
+   <img width="772" alt="image" src="https://github.com/user-attachments/assets/2c0cfdca-a631-443a-8791-2e0e34dc4172" />
+
+3. After successful completion the the  excel file and folder for pdf will be downloaded.
+
+<img width="731" alt="image" src="https://github.com/user-attachments/assets/c5d0dcbf-fb79-4f5a-860a-ad4710099fd4" />
+   
+
 
 
 **cmd prompt :**
