@@ -1,10 +1,10 @@
 # PDF_Downloader
 
-PDF Downloader is a small tool to download files from CSv Files.
+PDF Downloader is a small tool to download pdf files from the URLs in CSV Files.
 The Example CSV file is attached in the GIthub folder.
 
 Along with CSV,Readme there are also 3 more files attcahed.
-The Tool has three files
+The Tool has three programming files,
 1. pythonimports.py(where all the package to be imported are written)
 2. utils.py(where all python function are written)
 3. main.py(when run the tool rns)
